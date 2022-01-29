@@ -1,4 +1,4 @@
-# trello-clone
+# Planner
 
 ## Build Setup
 
